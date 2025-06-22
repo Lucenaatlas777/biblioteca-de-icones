@@ -6,13 +6,6 @@ function criarIcone(item) {
   img.src = item.caminho;
   img.alt = item.nome;
 
-  // Criar container para alinhar img e botão lado a lado
-  const container = document.createElement('div');
-  container.style.display = 'flex';
-  container.style.alignItems = 'center';
-  container.style.justifyContent = 'center';
-  container.style.gap = '10px';
-
   const button = document.createElement('button');
   button.className = 'download-btn';
   button.textContent = 'Baixar';
@@ -34,10 +27,20 @@ function criarIcone(item) {
       .catch(() => alert('Erro ao baixar o ícone.'));
   });
 
-  container.appendChild(img);
-  container.appendChild(button);
-
-  div.appendChild(container);
+  div.appendChild(img);
+  div.appendChild(button);
 
   return div;
 }
+
+fetch('icons.json')
+  .then(response => response.json())
+  .then(data => {
+    const container = document.getElementById('icon-container');
+    container.innerHTML = ''; // limpa antes
+    data.forEach(item => {
+      const icone = criarIcone(item);
+      container.appendChild(icone);
+    });
+  })
+  .catch(() => alert('Erro ao carregar a lista de ícones.'));
