@@ -1,17 +1,70 @@
 [
-  "balançadajustiça.svg",
-  "feedback (1).svg",
-  "feedback (2).svg",
-  "feedback (3).svg",
-  "feedback (4).svg",
-  "duvidas (1).svg",
-  "duvidas (2).svg",
-  "instagram.svg",
-  "agendamento.svg",
-  "horário.svg",
-  "contato.svg",
-  "contato 02.svg",
-  "pulmão.svg",
-  "coração.svg",
-  "família.svg"
+  {
+    "nome": "agendamento",
+    "caminho": "icons/agendamento.svg"
+  },
+  {
+    "nome": "balançadajustiça",
+    "caminho": "icons/balançadajustiça.svg"
+  },
+  {
+    "nome": "confeitaria",
+    "caminho": "icons/confeitaria.svg"
+  },
+  {
+    "nome": "contato 02",
+    "caminho": "icons/contato 02.svg"
+  },
+  {
+    "nome": "contato",
+    "caminho": "icons/contato.svg"
+  },
+  {
+    "nome": "coração",
+    "caminho": "icons/coração.svg"
+  },
+  {
+    "nome": "duvidas (1)",
+    "caminho": "icons/duvidas (1).svg"
+  },
+  {
+    "nome": "duvidas (2)",
+    "caminho": "icons/duvidas (2).svg"
+  },
+  {
+    "nome": "família",
+    "caminho": "icons/família.svg"
+  },
+  {
+    "nome": "feedback (1)",
+    "caminho": "icons/feedback (1).svg"
+  },
+  {
+    "nome": "feedback (2)",
+    "caminho": "icons/feedback (2).svg"
+  },
+  {
+    "nome": "feedback (3)",
+    "caminho": "icons/feedback (3).svg"
+  },
+  {
+    "nome": "feedback (4)",
+    "caminho": "icons/feedback (4).svg"
+  },
+  {
+    "nome": "horário",
+    "caminho": "icons/horário.svg"
+  },
+  {
+    "nome": "instagram",
+    "caminho": "icons/instagram.svg"
+  },
+  {
+    "nome": "pulmão",
+    "caminho": "icons/pulmão.svg"
+  },
+  {
+    "nome": "whatts",
+    "caminho": "icons/whatts.svg"
+  }
 ]
