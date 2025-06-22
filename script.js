@@ -1,29 +1,18 @@
-const container = document.getElementById('icon-container');
-
-fetch('icons.json')
-  .then(res => res.json())
-  .then(icons => {
-    icons.forEach(icon => {
-      const box = document.createElement('div');
-      box.className = 'icon-box';
-
-      // Criar o botão de download
-      const downloadLink = document.createElement('a');
-      downloadLink.href = `icons/${icon}`;
-      downloadLink.download = icon;
-      downloadLink.innerText = 'Baixar';
-      downloadLink.className = 'download-btn';
-
-      fetch(`icons/${icon}`)
-        .then(res => res.text())
-        .then(svg => {
-          const svgContainer = document.createElement('div');
-          svgContainer.innerHTML = svg;
-          svgContainer.className = 'icon-svg';
-
-          box.appendChild(svgContainer);
-          box.appendChild(downloadLink);
-          container.appendChild(box);
-        });
-    });
+document.querySelectorAll('.download-btn').forEach(button => {
+  button.addEventListener('click', () => {
+    const iconPath = button.getAttribute('data-icon');
+    fetch(iconPath)
+      .then(response => response.blob())
+      .then(blob => {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = iconPath.split('/').pop();
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        URL.revokeObjectURL(url);
+      })
+      .catch(() => alert('Erro ao baixar o ícone.'));
   });
+});
