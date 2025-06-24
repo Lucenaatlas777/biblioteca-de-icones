@@ -1,3 +1,5 @@
+let todosOsIcones = [];
+
 function criarIcone(item) {
   const div = document.createElement('div');
   div.className = 'icon-item';
@@ -33,14 +35,30 @@ function criarIcone(item) {
   return div;
 }
 
+function mostrarIcones(filtro = '') {
+  const container = document.getElementById('icon-container');
+  container.innerHTML = '';
+
+  const filtrados = todosOsIcones.filter(item =>
+    item.nome.toLowerCase().includes(filtro.toLowerCase())
+  );
+
+  filtrados.forEach(item => {
+    const icone = criarIcone(item);
+    container.appendChild(icone);
+  });
+}
+
 fetch('icons.json')
   .then(response => response.json())
   .then(data => {
-    const container = document.getElementById('icon-container');
-    container.innerHTML = ''; // limpa antes
-    data.forEach(item => {
-      const icone = criarIcone(item);
-      container.appendChild(icone);
-    });
+    todosOsIcones = data;
+    mostrarIcones();
   })
-  .catch(() => alert('Erro ao carregar a lista de ícones.'));
+  .catch(() => alert('Erro ao carregar ícones.'));
+
+document.getElementById('search-input').addEventListener('input', (e) => {
+  const valorBusca = e.target.value;
+  mostrarIcones(valorBusca);
+});
+
