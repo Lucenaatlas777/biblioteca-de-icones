@@ -8,6 +8,14 @@
     "caminho": "icons/balançadajustiça.svg"
   },
   {
+    "nome": "civil, trabalhador, advogado",
+    "caminho": "icons/civil, trabalhador, advogado.svg"
+  },
+  {
+    "nome": "civil, trabalhador",
+    "caminho": "icons/civil, trabalhador.svg"
+  },
+  {
     "nome": "confeitaria",
     "caminho": "icons/confeitaria.svg"
   },
@@ -24,12 +32,32 @@
     "caminho": "icons/coração.svg"
   },
   {
+    "nome": "criminal, advocacia",
+    "caminho": "icons/criminal, advocacia.svg"
+  },
+  {
     "nome": "duvidas (1)",
     "caminho": "icons/duvidas (1).svg"
   },
   {
     "nome": "duvidas (2)",
     "caminho": "icons/duvidas (2).svg"
+  },
+  {
+    "nome": "duvidas e feedbacks(1)",
+    "caminho": "icons/duvidas e feedbacks(1).svg"
+  },
+  {
+    "nome": "duvidas e feedbacks(2)",
+    "caminho": "icons/duvidas e feedbacks(2).svg"
+  },
+  {
+    "nome": "escritorio",
+    "caminho": "icons/escritorio.svg"
+  },
+  {
+    "nome": "facial estetica",
+    "caminho": "icons/facial estetica.svg"
   },
   {
     "nome": "família",
@@ -50,6 +78,10 @@
   {
     "nome": "feedback (4)",
     "caminho": "icons/feedback (4).svg"
+  },
+  {
+    "nome": "feedback",
+    "caminho": "icons/feedback.svg"
   },
   {
     "nome": "forma de pagamento, compras (1)",
@@ -152,6 +184,10 @@
     "caminho": "icons/nutricionista (9).svg"
   },
   {
+    "nome": "promoção, desconto, feedback",
+    "caminho": "icons/promoção, desconto, feedback.svg"
+  },
+  {
     "nome": "psicologia (1)",
     "caminho": "icons/psicologia (1).svg"
   },
@@ -174,6 +210,10 @@
   {
     "nome": "pulmão",
     "caminho": "icons/pulmão.svg"
+  },
+  {
+    "nome": "trabalhador, advogado, civil",
+    "caminho": "icons/trabalhador, advogado, civil.svg"
   },
   {
     "nome": "whatts",
