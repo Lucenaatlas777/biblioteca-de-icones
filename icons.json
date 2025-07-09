@@ -20,6 +20,10 @@
     "caminho": "icons/bolo.svg"
   },
   {
+    "nome": "caixa, enviar, entregar",
+    "caminho": "icons/caixa, enviar, entregar.svg"
+  },
+  {
     "nome": "casal, familia",
     "caminho": "icons/casal, familia.svg"
   },
@@ -28,16 +32,16 @@
     "caminho": "icons/casal.svg"
   },
   {
+    "nome": "certificado",
+    "caminho": "icons/certificado.svg"
+  },
+  {
     "nome": "civil, trabalhador, advogado",
     "caminho": "icons/civil, trabalhador, advogado.svg"
   },
   {
     "nome": "civil, trabalhador",
     "caminho": "icons/civil, trabalhador.svg"
-  },
-  {
-    "nome": "confeitaria",
-    "caminho": "icons/confeitaria.svg"
   },
   {
     "nome": "contato 02",
@@ -60,6 +64,22 @@
     "caminho": "icons/criminal, advocacia.svg"
   },
   {
+    "nome": "delivery, entrega",
+    "caminho": "icons/delivery, entrega.svg"
+  },
+  {
+    "nome": "dica, balão de fala",
+    "caminho": "icons/dica, balão de fala.svg"
+  },
+  {
+    "nome": "dicas (1)",
+    "caminho": "icons/dicas (1).svg"
+  },
+  {
+    "nome": "dicas (2)",
+    "caminho": "icons/dicas (2).svg"
+  },
+  {
     "nome": "doce",
     "caminho": "icons/doce.svg"
   },
@@ -78,6 +98,30 @@
   {
     "nome": "duvidas e feedbacks(2)",
     "caminho": "icons/duvidas e feedbacks(2).svg"
+  },
+  {
+    "nome": "engenharia (1)",
+    "caminho": "icons/engenharia (1).svg"
+  },
+  {
+    "nome": "engenharia (2)",
+    "caminho": "icons/engenharia (2).svg"
+  },
+  {
+    "nome": "engenharia (3)",
+    "caminho": "icons/engenharia (3).svg"
+  },
+  {
+    "nome": "engenharia (4)",
+    "caminho": "icons/engenharia (4).svg"
+  },
+  {
+    "nome": "engenharia (5)",
+    "caminho": "icons/engenharia (5).svg"
+  },
+  {
+    "nome": "entrega",
+    "caminho": "icons/entrega.svg"
   },
   {
     "nome": "escritorio",
@@ -176,6 +220,30 @@
     "caminho": "icons/instagram.svg"
   },
   {
+    "nome": "livro de receita",
+    "caminho": "icons/livro de receita.svg"
+  },
+  {
+    "nome": "livros (1)",
+    "caminho": "icons/livros (1).svg"
+  },
+  {
+    "nome": "livros (2)",
+    "caminho": "icons/livros (2).svg"
+  },
+  {
+    "nome": "localização, mapa",
+    "caminho": "icons/localização, mapa.svg"
+  },
+  {
+    "nome": "localização",
+    "caminho": "icons/localização.svg"
+  },
+  {
+    "nome": "mapa, localização",
+    "caminho": "icons/mapa, localização.svg"
+  },
+  {
     "nome": "nutricionista (1)",
     "caminho": "icons/nutricionista (1).svg"
   },
@@ -252,8 +320,16 @@
     "caminho": "icons/pulmão.svg"
   },
   {
+    "nome": "site",
+    "caminho": "icons/site.svg"
+  },
+  {
     "nome": "trabalhador, advogado, civil",
     "caminho": "icons/trabalhador, advogado, civil.svg"
+  },
+  {
+    "nome": "viagem",
+    "caminho": "icons/viagem.svg"
   },
   {
     "nome": "whatts",

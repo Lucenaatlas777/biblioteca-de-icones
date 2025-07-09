@@ -1,60 +1,85 @@
 body {
   font-family: Arial, sans-serif;
   padding: 20px;
-  background: #f9f9f9;
+  background-color: #f5f5f5;
   text-align: center;
 }
 
 h1 {
-  margin-bottom: 30px;
-}
-
-.icon-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 20px;
-  max-width: 900px;
-  margin: 0 auto;
-}
-
-.icon-item {
-  background: white;
-  padding: 15px;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 10px;
-}
-
-.icon-item img {
-  width: 60px;
-  height: 60px;
-}
-
-.download-btn {
-  background-color: #12355B;
-  border: none;
-  color: white;
-  padding: 6px 12px;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 0.9rem;
-  transition: background-color 0.2s ease;
-}
-
-.download-btn:hover {
-  background-color: #0e2a48;
+  color: #12355B;
+  font-size: 20px;
 }
 
 #search-input {
-  padding: 10px;
-  width: 300px;
-  max-width: 90%;
-  margin-bottom: 30px;
-  font-size: 16px;
-  border: 1px solid #ccc;
+  padding: 6px;
+  width: 250px;
+  margin: 20px auto;
   border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
 }
 
+.icon-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.icon-wrapper {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 8px;
+}
+
+.icon-image {
+  width: 60%;
+  height: 60%;
+  object-fit: contain;
+  margin: 20% auto;
+  display: block;
+}
+
+
+
+.icon-actions {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  z-index: 1;
+}
+
+.icon-wrapper:hover .icon-actions {
+  opacity: 1;
+}
+
+.btn {
+  background-color: white;
+  border: none;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  color: #12355B;
+  font-size: 12px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+}
+
+.btn:hover {
+  background-color: #f0f0f0;
+}
