@@ -8,6 +8,26 @@
     "caminho": "icons/balançadajustiça.svg"
   },
   {
+    "nome": "bebê, nascimento, parto",
+    "caminho": "icons/bebê, nascimento, parto.svg"
+  },
+  {
+    "nome": "bolo, forno, cozinhar",
+    "caminho": "icons/bolo, forno, cozinhar.svg"
+  },
+  {
+    "nome": "bolo",
+    "caminho": "icons/bolo.svg"
+  },
+  {
+    "nome": "casal, familia",
+    "caminho": "icons/casal, familia.svg"
+  },
+  {
+    "nome": "casal",
+    "caminho": "icons/casal.svg"
+  },
+  {
     "nome": "civil, trabalhador, advogado",
     "caminho": "icons/civil, trabalhador, advogado.svg"
   },
@@ -32,8 +52,16 @@
     "caminho": "icons/coração.svg"
   },
   {
+    "nome": "criança, menina",
+    "caminho": "icons/criança, menina.svg"
+  },
+  {
     "nome": "criminal, advocacia",
     "caminho": "icons/criminal, advocacia.svg"
+  },
+  {
+    "nome": "doce",
+    "caminho": "icons/doce.svg"
   },
   {
     "nome": "duvidas (1)",
@@ -62,6 +90,10 @@
   {
     "nome": "família",
     "caminho": "icons/família.svg"
+  },
+  {
+    "nome": "fatia de bolo, doce",
+    "caminho": "icons/fatia de bolo, doce.svg"
   },
   {
     "nome": "feedback (1)",
@@ -182,6 +214,14 @@
   {
     "nome": "nutricionista (9)",
     "caminho": "icons/nutricionista (9).svg"
+  },
+  {
+    "nome": "orelha, furo, brinco",
+    "caminho": "icons/orelha, furo, brinco.svg"
+  },
+  {
+    "nome": "presente",
+    "caminho": "icons/presente.svg"
   },
   {
     "nome": "promoção, desconto, feedback",
