@@ -4,30 +4,33 @@ const path = require('path');
 const ICONS_DIR = path.join(__dirname, 'icons');
 const OUTPUT_FILE = path.join(__dirname, 'icons.json');
 
-function getAllSvgFiles(dir, baseDir = '') {
-  const entries = fs.readdirSync(dir, { withFileTypes: true });
-  let svgFiles = [];
+function listarSubpastasComSVGs(diretorioPai) {
+  const resultado = [];
 
-  for (const entry of entries) {
-    const fullPath = path.join(dir, entry.name);
-    const relativePath = path.join(baseDir, entry.name);
+  const subpastas = fs.readdirSync(diretorioPai);
 
-    if (entry.isDirectory()) {
-      svgFiles = svgFiles.concat(getAllSvgFiles(fullPath, relativePath));
-    } else if (entry.isFile() && entry.name.endsWith('.svg')) {
-      const nome = entry.name.replace('.svg', '').replace(/[-_]/g, ' ');
-      const categoria = baseDir.split(path.sep)[0] || 'outros';
-      svgFiles.push({
-        nome,
-        caminho: 'icons/' + relativePath.replace(/\\\\/g, '/'),
-        categoria
+  subpastas.forEach(subpasta => {
+    const caminhoSubpasta = path.join(diretorioPai, subpasta);
+    const stat = fs.statSync(caminhoSubpasta);
+
+    if (stat.isDirectory()) {
+      const arquivos = fs.readdirSync(caminhoSubpasta);
+      arquivos.forEach(arquivo => {
+        if (arquivo.endsWith('.svg')) {
+          resultado.push({
+            nome: arquivo.replace('.svg', '').replace(/[-_]/g, ' '),
+            caminho: `icons/${subpasta}/${arquivo}`,
+            categoria: subpasta.toLowerCase()
+          });
+        }
       });
     }
-  }
+  });
 
-  return svgFiles;
+  return resultado;
 }
 
-const icons = getAllSvgFiles(ICONS_DIR);
-fs.writeFileSync(OUTPUT_FILE, JSON.stringify(icons, null, 2), 'utf8');
-console.log('✅ icons.json gerado com categorias!');
+const icones = listarSubpastasComSVGs(ICONS_DIR);
+
+fs.writeFileSync(OUTPUT_FILE, JSON.stringify(icones, null, 2), 'utf8');
+console.log('✅ icons.json atualizado com categorias baseado nas subpastas!');

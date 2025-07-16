@@ -3,12 +3,27 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Minha Biblioteca de Ícones</title>
+  <title>Biblioteca de Ícones</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Biblioteca de Ícones</h1>
-  <div id="icon-container" class="icon-grid"></div>
+  <header>
+    <h1>Acesse as figurinhas vetoriais</h1>
+    <div class="search-filter">
+      <input type="text" id="search-input" placeholder="Pesquisar ícones..." />
+      <select id="filter-select">
+        <option value="todos">Todos</option>
+        <option value="figurinhas">Figurinhas</option>
+        <option value="linha">Ícones em linha</option>
+        <option value="colorido">Ícones coloridos</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <div id="icon-container" class="icon-grid"></div>
+  </main>
+
   <script src="script.js"></script>
 </body>
 </html>

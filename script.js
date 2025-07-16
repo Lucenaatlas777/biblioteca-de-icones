@@ -1,50 +1,51 @@
+let iconsData = [];
+
 fetch('icons.json')
-  .then(response => response.json())
+  .then(res => res.json())
   .then(data => {
-    const container = document.getElementById('icon-container');
-    container.innerHTML = '';
+    iconsData = data;
+    renderIcons(data);
+  });
 
-    const categorias = {};
+const searchInput = document.getElementById('search-input');
+const filterSelect = document.getElementById('filter-select');
 
-    // Agrupar ícones por categoria
-    data.forEach(icon => {
-      if (!categorias[icon.categoria]) {
-        categorias[icon.categoria] = [];
-      }
-      categorias[icon.categoria].push(icon);
-    });
+searchInput.addEventListener('input', filterIcons);
+filterSelect.addEventListener('change', filterIcons);
 
-    // Criar seção para cada categoria
-    for (const categoria in categorias) {
-      const secao = document.createElement('section');
-      const titulo = document.createElement('h2');
-      titulo.textContent = categoria.charAt(0).toUpperCase() + categoria.slice(1);
-      secao.appendChild(titulo);
+function filterIcons() {
+  const termo = searchInput.value.toLowerCase();
+  const categoriaSelecionada = filterSelect.value;
 
-      const grid = document.createElement('div');
-      grid.className = 'icon-grid';
+  const filtrados = iconsData.filter(icon => {
+    const nomeMatch = icon.nome.toLowerCase().includes(termo);
+    const categoriaMatch = categoriaSelecionada === 'todos' || icon.categoria === categoriaSelecionada;
+    return nomeMatch && categoriaMatch;
+  });
 
-      categorias[categoria].forEach(icon => {
-        const item = document.createElement('div');
-        item.className = 'icon-item';
+  renderIcons(filtrados);
+}
 
-        const img = document.createElement('img');
-        img.src = icon.caminho;
-        img.alt = icon.nome;
+function renderIcons(icons) {
+  const container = document.getElementById('icon-container');
+  container.innerHTML = '';
 
-        const btnDownload = document.createElement('a');
-        btnDownload.href = icon.caminho;
-        btnDownload.download = icon.nome + '.svg';
-        btnDownload.textContent = '⬇';
-        btnDownload.className = 'btn-download';
+  icons.forEach(icon => {
+    const div = document.createElement('div');
+    div.className = 'icon-item';
 
-        item.appendChild(img);
-        item.appendChild(btnDownload);
-        grid.appendChild(item);
-      });
+    const img = document.createElement('img');
+    img.src = icon.caminho;
+    img.alt = icon.nome;
 
-      secao.appendChild(grid);
-      container.appendChild(secao);
-    }
-  })
-  .catch(error => console.error('Erro ao carregar ícones:', error));
+    const downloadBtn = document.createElement('a');
+    downloadBtn.href = icon.caminho;
+    downloadBtn.download = icon.nome + '.svg';
+    downloadBtn.className = 'btn-download';
+    downloadBtn.textContent = 'Baixar';
+
+    div.appendChild(img);
+    div.appendChild(downloadBtn);
+    container.appendChild(div);
+  });
+}
