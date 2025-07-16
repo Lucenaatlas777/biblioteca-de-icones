@@ -1,32 +1,35 @@
 const fs = require('fs');
 const path = require('path');
 
-const baseDir = './icons';
+const pasta = './icons';
+const arquivos = [];
 
-function gerarListaDeIcones(dir) {
-  const lista = [];
+// Mapeamento dos nomes das subpastas para nomes bonitos no site
+const nomesBonitos = {
+  figurinhas: 'Figurinhas',
+  coloridos: 'Ícones coloridos',
+  linhas: 'Ícones em linhas',
+  solidos: 'Ícones sólidos'
+};
 
-  const categorias = fs.readdirSync(dir);
-  categorias.forEach((categoria) => {
-    const categoriaPath = path.join(dir, categoria);
-    if (fs.lstatSync(categoriaPath).isDirectory()) {
-      const arquivos = fs.readdirSync(categoriaPath);
-      arquivos.forEach((arquivo) => {
-        if (arquivo.endsWith('.svg')) {
-          lista.push({
-            nome: path.parse(arquivo).name,
-            caminho: path.join('icons', categoria, arquivo).replace(/\\/g, '/'),
-            categoria: categoria.toLowerCase().replace(/ /g, '_')
-          });
-        }
-      });
+function lerDiretorio(diretorio, subpasta = '') {
+  const itens = fs.readdirSync(diretorio);
+  itens.forEach(item => {
+    const caminhoCompleto = path.join(diretorio, item);
+    const stat = fs.statSync(caminhoCompleto);
+
+    if (stat.isDirectory()) {
+      lerDiretorio(caminhoCompleto, path.basename(caminhoCompleto));
+    } else if (path.extname(item) === '.svg') {
+      const nome = path.basename(item, '.svg');
+      const caminho = caminhoCompleto.replace(/\\/g, '/');
+      const categoria = nomesBonitos[subpasta] || 'Sem categoria';
+
+      arquivos.push({ nome, caminho, categoria });
     }
   });
-
-  return lista;
 }
 
-const icones = gerarListaDeIcones(baseDir);
-
-fs.writeFileSync('icons.json', JSON.stringify(icones, null, 2), 'utf8');
-console.log('✅ icons.json atualizado com sucesso!');
+lerDiretorio(pasta);
+fs.writeFileSync('icons.json', JSON.stringify(arquivos, null, 2));
+console.log('✅ icons.json gerado com nomes de categorias bonitos!');
