@@ -24,12 +24,24 @@
     "caminho": "icons/caixa, enviar, entregar.svg"
   },
   {
+    "nome": "cartão de crédito",
+    "caminho": "icons/cartão de crédito.svg"
+  },
+  {
     "nome": "casal, familia",
     "caminho": "icons/casal, familia.svg"
   },
   {
     "nome": "casal",
     "caminho": "icons/casal.svg"
+  },
+  {
+    "nome": "catalogo de roupa",
+    "caminho": "icons/catalogo de roupa.svg"
+  },
+  {
+    "nome": "catalogo virtual",
+    "caminho": "icons/catalogo virtual.svg"
   },
   {
     "nome": "certificado",
@@ -216,6 +228,22 @@
     "caminho": "icons/horário.svg"
   },
   {
+    "nome": "informação e feedback",
+    "caminho": "icons/informação e feedback.svg"
+  },
+  {
+    "nome": "informação, comentário",
+    "caminho": "icons/informação, comentário.svg"
+  },
+  {
+    "nome": "informação",
+    "caminho": "icons/informação.svg"
+  },
+  {
+    "nome": "infromação, comunicação",
+    "caminho": "icons/infromação, comunicação.svg"
+  },
+  {
     "nome": "instagram",
     "caminho": "icons/instagram.svg"
   },
@@ -288,12 +316,28 @@
     "caminho": "icons/orelha, furo, brinco.svg"
   },
   {
+    "nome": "pix",
+    "caminho": "icons/pix.svg"
+  },
+  {
     "nome": "presente",
     "caminho": "icons/presente.svg"
   },
   {
     "nome": "promoção, desconto, feedback",
     "caminho": "icons/promoção, desconto, feedback.svg"
+  },
+  {
+    "nome": "provador co mulher",
+    "caminho": "icons/provador co mulher.svg"
+  },
+  {
+    "nome": "provador de roupa",
+    "caminho": "icons/provador de roupa.svg"
+  },
+  {
+    "nome": "provador, espelho",
+    "caminho": "icons/provador, espelho.svg"
   },
   {
     "nome": "psicologia (1)",
