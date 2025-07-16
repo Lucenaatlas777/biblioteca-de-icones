@@ -1,517 +1,517 @@
 [
   {
+    "nome": "engenharia (4)",
+    "caminho": "icons/coloridos/engenharia (4).svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "engenharia (5)",
+    "caminho": "icons/coloridos/engenharia (5).svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "entrega",
+    "caminho": "icons/coloridos/entrega.svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "escritorio",
+    "caminho": "icons/coloridos/escritorio.svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "facial estetica",
+    "caminho": "icons/coloridos/facial estetica.svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "família",
+    "caminho": "icons/coloridos/família.svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "fatia de bolo, doce",
+    "caminho": "icons/coloridos/fatia de bolo, doce.svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "feedback (1)",
+    "caminho": "icons/coloridos/feedback (1).svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "feedback (2)",
+    "caminho": "icons/coloridos/feedback (2).svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "feedback (3)",
+    "caminho": "icons/coloridos/feedback (3).svg",
+    "categoria": "coloridos"
+  },
+  {
+    "nome": "feedback (4)",
+    "caminho": "icons/coloridos/feedback (4).svg",
+    "categoria": "coloridos"
+  },
+  {
     "nome": "infromação, comunicação",
-    "caminho": "icons/Figurinhas/infromação, comunicação.svg",
+    "caminho": "icons/figurinhas/infromação, comunicação.svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "instagram",
-    "caminho": "icons/Figurinhas/instagram.svg",
+    "caminho": "icons/figurinhas/instagram.svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "livro de receita",
-    "caminho": "icons/Figurinhas/livro de receita.svg",
+    "caminho": "icons/figurinhas/livro de receita.svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "livros (1)",
-    "caminho": "icons/Figurinhas/livros (1).svg",
+    "caminho": "icons/figurinhas/livros (1).svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "livros (2)",
-    "caminho": "icons/Figurinhas/livros (2).svg",
+    "caminho": "icons/figurinhas/livros (2).svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "localização, mapa",
-    "caminho": "icons/Figurinhas/localização, mapa.svg",
+    "caminho": "icons/figurinhas/localização, mapa.svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "localização",
-    "caminho": "icons/Figurinhas/localização.svg",
+    "caminho": "icons/figurinhas/localização.svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "mapa, localização",
-    "caminho": "icons/Figurinhas/mapa, localização.svg",
+    "caminho": "icons/figurinhas/mapa, localização.svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "mulher (1)",
-    "caminho": "icons/Figurinhas/mulher (1).svg",
+    "caminho": "icons/figurinhas/mulher (1).svg",
     "categoria": "figurinhas"
   },
   {
     "nome": "mulher (2)",
-    "caminho": "icons/Figurinhas/mulher (2).svg",
+    "caminho": "icons/figurinhas/mulher (2).svg",
     "categoria": "figurinhas"
   },
   {
-    "nome": "engenharia (4)",
-    "caminho": "icons/Ícones coloridos/engenharia (4).svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "engenharia (5)",
-    "caminho": "icons/Ícones coloridos/engenharia (5).svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "entrega",
-    "caminho": "icons/Ícones coloridos/entrega.svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "escritorio",
-    "caminho": "icons/Ícones coloridos/escritorio.svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "facial estetica",
-    "caminho": "icons/Ícones coloridos/facial estetica.svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "família",
-    "caminho": "icons/Ícones coloridos/família.svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "fatia de bolo, doce",
-    "caminho": "icons/Ícones coloridos/fatia de bolo, doce.svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "feedback (1)",
-    "caminho": "icons/Ícones coloridos/feedback (1).svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "feedback (2)",
-    "caminho": "icons/Ícones coloridos/feedback (2).svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "feedback (3)",
-    "caminho": "icons/Ícones coloridos/feedback (3).svg",
-    "categoria": "ícones coloridos"
-  },
-  {
-    "nome": "feedback (4)",
-    "caminho": "icons/Ícones coloridos/feedback (4).svg",
-    "categoria": "ícones coloridos"
-  },
-  {
     "nome": "feedback",
-    "caminho": "icons/Ícones em linhas/feedback.svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/feedback.svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (1)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (1).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (1).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (10)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (10).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (10).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (11)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (11).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (11).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (12)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (12).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (12).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (13)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (13).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (13).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (2)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (2).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (2).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (3)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (3).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (3).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (4)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (4).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (4).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (5)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (5).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (5).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (6)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (6).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (6).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (7)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (7).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (7).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (8)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (8).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (8).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "forma de pagamento, compras (9)",
-    "caminho": "icons/Ícones em linhas/forma de pagamento, compras (9).svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/forma de pagamento, compras (9).svg",
+    "categoria": "linhas"
   },
   {
     "nome": "horário",
-    "caminho": "icons/Ícones em linhas/horário.svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/horário.svg",
+    "categoria": "linhas"
   },
   {
     "nome": "informação e feedback",
-    "caminho": "icons/Ícones em linhas/informação e feedback.svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/informação e feedback.svg",
+    "categoria": "linhas"
   },
   {
     "nome": "informação, comentário",
-    "caminho": "icons/Ícones em linhas/informação, comentário.svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/informação, comentário.svg",
+    "categoria": "linhas"
   },
   {
     "nome": "informação",
-    "caminho": "icons/Ícones em linhas/informação.svg",
-    "categoria": "ícones em linhas"
+    "caminho": "icons/linhas/informação.svg",
+    "categoria": "linhas"
   },
   {
     "nome": "agendamento",
-    "caminho": "icons/Ícones sólidos/agendamento.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/agendamento.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "aniversariante, aniversario",
-    "caminho": "icons/Ícones sólidos/aniversariante, aniversario.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/aniversariante, aniversario.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "balançadajustiça",
-    "caminho": "icons/Ícones sólidos/balançadajustiça.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/balançadajustiça.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "bebê, nascimento, parto",
-    "caminho": "icons/Ícones sólidos/bebê, nascimento, parto.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/bebê, nascimento, parto.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "bebê, pai, familia",
-    "caminho": "icons/Ícones sólidos/bebê, pai, familia.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/bebê, pai, familia.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "bolo, forno, cozinhar",
-    "caminho": "icons/Ícones sólidos/bolo, forno, cozinhar.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/bolo, forno, cozinhar.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "bolo",
-    "caminho": "icons/Ícones sólidos/bolo.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/bolo.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "caixa, enviar, entregar",
-    "caminho": "icons/Ícones sólidos/caixa, enviar, entregar.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/caixa, enviar, entregar.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "cartao de credito",
-    "caminho": "icons/Ícones sólidos/cartao de credito.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/cartao de credito.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "casal, familia",
-    "caminho": "icons/Ícones sólidos/casal, familia.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/casal, familia.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "casal",
-    "caminho": "icons/Ícones sólidos/casal.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/casal.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "catalogo de roupa",
-    "caminho": "icons/Ícones sólidos/catalogo de roupa.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/catalogo de roupa.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "catalogo virtual",
-    "caminho": "icons/Ícones sólidos/catalogo virtual.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/catalogo virtual.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "certificado",
-    "caminho": "icons/Ícones sólidos/certificado.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/certificado.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "cesta, presente",
-    "caminho": "icons/Ícones sólidos/cesta, presente.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/cesta, presente.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "cesta, páscoa, chocolate",
-    "caminho": "icons/Ícones sólidos/cesta, páscoa, chocolate.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/cesta, páscoa, chocolate.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "civil, trabalhador, advogado",
-    "caminho": "icons/Ícones sólidos/civil, trabalhador, advogado.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/civil, trabalhador, advogado.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "civil, trabalhador",
-    "caminho": "icons/Ícones sólidos/civil, trabalhador.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/civil, trabalhador.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "contato 02",
-    "caminho": "icons/Ícones sólidos/contato 02.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/contato 02.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "contato",
-    "caminho": "icons/Ícones sólidos/contato.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/contato.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "coração",
-    "caminho": "icons/Ícones sólidos/coração.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/coração.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "criança, menina",
-    "caminho": "icons/Ícones sólidos/criança, menina.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/criança, menina.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "criminal, advocacia",
-    "caminho": "icons/Ícones sólidos/criminal, advocacia.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/criminal, advocacia.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "cátalogo",
-    "caminho": "icons/Ícones sólidos/cátalogo.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/cátalogo.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "delivery, entrega",
-    "caminho": "icons/Ícones sólidos/delivery, entrega.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/delivery, entrega.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "dica, balão de fala",
-    "caminho": "icons/Ícones sólidos/dica, balão de fala.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/dica, balão de fala.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "dicas (1)",
-    "caminho": "icons/Ícones sólidos/dicas (1).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/dicas (1).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "dicas (2)",
-    "caminho": "icons/Ícones sólidos/dicas (2).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/dicas (2).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "doce",
-    "caminho": "icons/Ícones sólidos/doce.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/doce.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "duvidas (1)",
-    "caminho": "icons/Ícones sólidos/duvidas (1).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/duvidas (1).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "duvidas (2)",
-    "caminho": "icons/Ícones sólidos/duvidas (2).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/duvidas (2).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "duvidas e feedbacks(1)",
-    "caminho": "icons/Ícones sólidos/duvidas e feedbacks(1).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/duvidas e feedbacks(1).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "duvidas e feedbacks(2)",
-    "caminho": "icons/Ícones sólidos/duvidas e feedbacks(2).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/duvidas e feedbacks(2).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "engenharia (1)",
-    "caminho": "icons/Ícones sólidos/engenharia (1).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/engenharia (1).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "engenharia (2)",
-    "caminho": "icons/Ícones sólidos/engenharia (2).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/engenharia (2).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "engenharia (3)",
-    "caminho": "icons/Ícones sólidos/engenharia (3).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/engenharia (3).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "mulher (3)",
-    "caminho": "icons/Ícones sólidos/mulher (3).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/mulher (3).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (1)",
-    "caminho": "icons/Ícones sólidos/nutricionista (1).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (1).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (10)",
-    "caminho": "icons/Ícones sólidos/nutricionista (10).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (10).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (2)",
-    "caminho": "icons/Ícones sólidos/nutricionista (2).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (2).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (3)",
-    "caminho": "icons/Ícones sólidos/nutricionista (3).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (3).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (4)",
-    "caminho": "icons/Ícones sólidos/nutricionista (4).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (4).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (5)",
-    "caminho": "icons/Ícones sólidos/nutricionista (5).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (5).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (6)",
-    "caminho": "icons/Ícones sólidos/nutricionista (6).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (6).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (7)",
-    "caminho": "icons/Ícones sólidos/nutricionista (7).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (7).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (8)",
-    "caminho": "icons/Ícones sólidos/nutricionista (8).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (8).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "nutricionista (9)",
-    "caminho": "icons/Ícones sólidos/nutricionista (9).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/nutricionista (9).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "orelha, furo, brinco",
-    "caminho": "icons/Ícones sólidos/orelha, furo, brinco.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/orelha, furo, brinco.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "pix",
-    "caminho": "icons/Ícones sólidos/pix.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/pix.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "presente",
-    "caminho": "icons/Ícones sólidos/presente.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/presente.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "promoção, desconto, feedback",
-    "caminho": "icons/Ícones sólidos/promoção, desconto, feedback.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/promoção, desconto, feedback.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "provador co mulher",
-    "caminho": "icons/Ícones sólidos/provador co mulher.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/provador co mulher.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "provador de roupa",
-    "caminho": "icons/Ícones sólidos/provador de roupa.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/provador de roupa.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "provador, espelho",
-    "caminho": "icons/Ícones sólidos/provador, espelho.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/provador, espelho.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "psicologia (1)",
-    "caminho": "icons/Ícones sólidos/psicologia (1).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/psicologia (1).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "psicologia (2)",
-    "caminho": "icons/Ícones sólidos/psicologia (2).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/psicologia (2).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "psicologia (3)",
-    "caminho": "icons/Ícones sólidos/psicologia (3).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/psicologia (3).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "psicologia (4)",
-    "caminho": "icons/Ícones sólidos/psicologia (4).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/psicologia (4).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "psicologia (5)",
-    "caminho": "icons/Ícones sólidos/psicologia (5).svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/psicologia (5).svg",
+    "categoria": "solidos"
   },
   {
     "nome": "pulmão",
-    "caminho": "icons/Ícones sólidos/pulmão.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/pulmão.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "site",
-    "caminho": "icons/Ícones sólidos/site.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/site.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "trabalhador, advogado, civil",
-    "caminho": "icons/Ícones sólidos/trabalhador, advogado, civil.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/trabalhador, advogado, civil.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "viagem",
-    "caminho": "icons/Ícones sólidos/viagem.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/viagem.svg",
+    "categoria": "solidos"
   },
   {
     "nome": "whatts",
-    "caminho": "icons/Ícones sólidos/whatts.svg",
-    "categoria": "ícones sólidos"
+    "caminho": "icons/solidos/whatts.svg",
+    "categoria": "solidos"
   }
 ]
