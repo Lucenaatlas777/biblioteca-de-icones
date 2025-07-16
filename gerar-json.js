@@ -1,25 +1,33 @@
 const fs = require('fs');
 const path = require('path');
 
-const pastaIcones = path.join(__dirname, 'icons');
-const arquivoSaida = path.join(__dirname, 'icons.json');
+const ICONS_DIR = path.join(__dirname, 'icons');
+const OUTPUT_FILE = path.join(__dirname, 'icons.json');
 
-fs.readdir(pastaIcones, (err, arquivos) => {
-  if (err) {
-    return console.error('❌ Erro ao ler a pasta de ícones:', err);
+function getAllSvgFiles(dir, baseDir = '') {
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  let svgFiles = [];
+
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+    const relativePath = path.join(baseDir, entry.name);
+
+    if (entry.isDirectory()) {
+      svgFiles = svgFiles.concat(getAllSvgFiles(fullPath, relativePath));
+    } else if (entry.isFile() && entry.name.endsWith('.svg')) {
+      const nome = entry.name.replace('.svg', '').replace(/[-_]/g, ' ');
+      const categoria = baseDir.split(path.sep)[0] || 'outros';
+      svgFiles.push({
+        nome,
+        caminho: 'icons/' + relativePath.replace(/\\\\/g, '/'),
+        categoria
+      });
+    }
   }
 
-  const svgs = arquivos.filter(nome => nome.endsWith('.svg'));
+  return svgFiles;
+}
 
-  const listaDeIcones = svgs.map(nome => ({
-    nome: nome.replace('.svg', ''),
-    caminho: `icons/${nome}`
-  }));
-
-  fs.writeFile(arquivoSaida, JSON.stringify(listaDeIcones, null, 2), (err) => {
-    if (err) {
-      return console.error('❌ Erro ao salvar icons.json:', err);
-    }
-    console.log('✅ icons.json criado/atualizado com sucesso!');
-  });
-});
+const icons = getAllSvgFiles(ICONS_DIR);
+fs.writeFileSync(OUTPUT_FILE, JSON.stringify(icons, null, 2), 'utf8');
+console.log('✅ icons.json gerado com categorias!');
