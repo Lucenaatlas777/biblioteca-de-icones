@@ -1,12 +1,37 @@
 [
   {
+    "nome": "advocacia, contrato, cláusula",
+    "caminho": "icons/advocacia, contrato, cláusula.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "advocacia, pasta, serviço",
+    "caminho": "icons/advocacia, pasta, serviço.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "advogacia, advogada, mulher",
+    "caminho": "icons/advogacia, advogada, mulher.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "agendamento",
     "caminho": "icons/agendamento.svg",
     "categoria": "Sem categoria"
   },
   {
+    "nome": "animate, marca",
+    "caminho": "icons/animate, marca.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "aniversariante, aniversario",
     "caminho": "icons/aniversariante, aniversario.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "aperto de mão, parceria, colaborador",
+    "caminho": "icons/aperto de mão, parceria, colaborador.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -40,6 +65,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "capilar, dermatologia",
+    "caminho": "icons/capilar, dermatologia.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "cartao de credito",
     "caminho": "icons/cartao de credito.svg",
     "categoria": "Sem categoria"
@@ -65,8 +95,8 @@
     "categoria": "Sem categoria"
   },
   {
-    "nome": "certificado",
-    "caminho": "icons/certificado.svg",
+    "nome": "certificado, diploma, formação",
+    "caminho": "icons/certificado, diploma, formação.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -115,6 +145,16 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "curso, aula, formação",
+    "caminho": "icons/curso, aula, formação.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "curso, formação",
+    "caminho": "icons/curso, formação.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "cátalogo",
     "caminho": "icons/cátalogo.svg",
     "categoria": "Sem categoria"
@@ -137,6 +177,11 @@
   {
     "nome": "dicas (2)",
     "caminho": "icons/dicas (2).svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "diploma, formação, graduação, certificado",
+    "caminho": "icons/diploma, formação, graduação, certificado.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -220,23 +265,28 @@
     "categoria": "Sem categoria"
   },
   {
-    "nome": "feedback (2)",
-    "caminho": "icons/feedback (2).svg",
+    "nome": "feedback, 3 estrela",
+    "caminho": "icons/feedback, 3 estrela.svg",
     "categoria": "Sem categoria"
   },
   {
-    "nome": "feedback (3)",
-    "caminho": "icons/feedback (3).svg",
+    "nome": "feedback, cleinte,",
+    "caminho": "icons/feedback, cleinte,.svg",
     "categoria": "Sem categoria"
   },
   {
-    "nome": "feedback (4)",
-    "caminho": "icons/feedback (4).svg",
+    "nome": "feedback, cliente",
+    "caminho": "icons/feedback, cliente.svg",
     "categoria": "Sem categoria"
   },
   {
     "nome": "feedback",
     "caminho": "icons/feedback.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "figma, marca",
+    "caminho": "icons/figma, marca.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -310,13 +360,13 @@
     "categoria": "Sem categoria"
   },
   {
-    "nome": "informação e feedback",
-    "caminho": "icons/informação e feedback.svg",
+    "nome": "informação, comentário, depoimentos",
+    "caminho": "icons/informação, comentário, depoimentos.svg",
     "categoria": "Sem categoria"
   },
   {
-    "nome": "informação, comentário",
-    "caminho": "icons/informação, comentário.svg",
+    "nome": "informação, feedback",
+    "caminho": "icons/informação, feedback.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -365,11 +415,6 @@
     "categoria": "Sem categoria"
   },
   {
-    "nome": "mulher (1)",
-    "caminho": "icons/mulher (1).svg",
-    "categoria": "Sem categoria"
-  },
-  {
     "nome": "mulher (2)",
     "caminho": "icons/mulher (2).svg",
     "categoria": "Sem categoria"
@@ -377,6 +422,11 @@
   {
     "nome": "mulher (3)",
     "caminho": "icons/mulher (3).svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "mulher",
+    "caminho": "icons/mulher.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -432,6 +482,11 @@
   {
     "nome": "orelha, furo, brinco",
     "caminho": "icons/orelha, furo, brinco.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "parceria, aperto de mão, acordo",
+    "caminho": "icons/parceria, aperto de mão, acordo.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -495,8 +550,18 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "shopify, marca",
+    "caminho": "icons/shopify, marca.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "site",
     "caminho": "icons/site.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "tempo livro, rotina",
+    "caminho": "icons/tempo livro, rotina.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -507,6 +572,11 @@
   {
     "nome": "viagem",
     "caminho": "icons/viagem.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "vida pessoal, rotina",
+    "caminho": "icons/vida pessoal, rotina.svg",
     "categoria": "Sem categoria"
   },
   {
