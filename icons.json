@@ -45,6 +45,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "aromatizante, perfume",
+    "caminho": "icons/aromatizante, perfume.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "arquitetura, arquiteta",
     "caminho": "icons/arquitetura, arquiteta.svg",
     "categoria": "Sem categoria"
@@ -60,8 +65,23 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "ateliê, maquinha, costura",
+    "caminho": "icons/ateliê, maquinha, costura.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "aulas, escola, alunos",
+    "caminho": "icons/aulas, escola, alunos.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "balançadajustiça",
     "caminho": "icons/balançadajustiça.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "bebê, menino, criança",
+    "caminho": "icons/bebê, menino, criança.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -165,6 +185,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "costura, linha fio",
+    "caminho": "icons/costura, linha fio.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "criança, menina",
     "caminho": "icons/criança, menina.svg",
     "categoria": "Sem categoria"
@@ -212,6 +237,11 @@
   {
     "nome": "dicas, lâmpada",
     "caminho": "icons/dicas, lâmpada.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "dicas",
+    "caminho": "icons/dicas.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -315,8 +345,18 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "ferias, lazer, praia",
+    "caminho": "icons/ferias, lazer, praia.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "figma, marca",
     "caminho": "icons/figma, marca.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "forma de pagamento, comprar, como comprar",
+    "caminho": "icons/forma de pagamento, comprar, como comprar.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -410,6 +450,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "informações, depoimentos, cometário",
+    "caminho": "icons/informações, depoimentos, cometário.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "infromação, comunicação",
     "caminho": "icons/infromação, comunicação.svg",
     "categoria": "Sem categoria"
@@ -495,6 +540,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "maternidade, mãe, bebê, família",
+    "caminho": "icons/maternidade, mãe, bebê, família.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "mulher (2)",
     "caminho": "icons/mulher (2).svg",
     "categoria": "Sem categoria"
@@ -507,6 +557,11 @@
   {
     "nome": "mulher",
     "caminho": "icons/mulher.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "máquina, mulher, costureira, ateliê",
+    "caminho": "icons/máquina, mulher, costureira, ateliê.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -565,8 +620,18 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "odonntologia, dentista, implante",
+    "caminho": "icons/odonntologia, dentista, implante.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "orelha, furo, brinco",
     "caminho": "icons/orelha, furo, brinco.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "pai, mãe, maternidade, família",
+    "caminho": "icons/pai, mãe, maternidade, família.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -645,6 +710,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "sabonete, sabão",
+    "caminho": "icons/sabonete, sabão.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "shopify, marca",
     "caminho": "icons/shopify, marca.svg",
     "categoria": "Sem categoria"
@@ -667,6 +737,16 @@
   {
     "nome": "trabalhador, advogado, civil",
     "caminho": "icons/trabalhador, advogado, civil.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "velas, aromatizante",
+    "caminho": "icons/velas, aromatizante.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "velas",
+    "caminho": "icons/velas.svg",
     "categoria": "Sem categoria"
   },
   {
