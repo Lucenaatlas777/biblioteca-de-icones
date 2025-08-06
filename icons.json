@@ -1,5 +1,10 @@
 [
   {
+    "nome": "acuptura, fisioterapia, relaxamento",
+    "caminho": "icons/acuptura, fisioterapia, relaxamento.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "advocacia, audiência",
     "caminho": "icons/advocacia, audiência.svg",
     "categoria": "Sem categoria"
@@ -37,6 +42,11 @@
   {
     "nome": "aniversariante, aniversario",
     "caminho": "icons/aniversariante, aniversario.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "antes e depois, beleza, estética, facial",
+    "caminho": "icons/antes e depois, beleza, estética, facial.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -140,6 +150,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "catálago, planfeto, anuncio",
+    "caminho": "icons/catálago, planfeto, anuncio.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "certificado, diploma, formação",
     "caminho": "icons/certificado, diploma, formação.svg",
     "categoria": "Sem categoria"
@@ -152,6 +167,11 @@
   {
     "nome": "cesta, páscoa, chocolate",
     "caminho": "icons/cesta, páscoa, chocolate.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "cirurgia, estética, facial, marcações",
+    "caminho": "icons/cirurgia, estética, facial, marcações.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -215,6 +235,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "data, eventos, comemorações",
+    "caminho": "icons/data, eventos, comemorações.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "delivery, entrega",
     "caminho": "icons/delivery, entrega.svg",
     "categoria": "Sem categoria"
@@ -225,23 +250,13 @@
     "categoria": "Sem categoria"
   },
   {
-    "nome": "dicas (1)",
-    "caminho": "icons/dicas (1).svg",
-    "categoria": "Sem categoria"
-  },
-  {
-    "nome": "dicas (2)",
-    "caminho": "icons/dicas (2).svg",
+    "nome": "dicas, ideias",
+    "caminho": "icons/dicas, ideias.svg",
     "categoria": "Sem categoria"
   },
   {
     "nome": "dicas, lâmpada",
     "caminho": "icons/dicas, lâmpada.svg",
-    "categoria": "Sem categoria"
-  },
-  {
-    "nome": "dicas",
-    "caminho": "icons/dicas.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -255,23 +270,28 @@
     "categoria": "Sem categoria"
   },
   {
-    "nome": "duvidas (1)",
-    "caminho": "icons/duvidas (1).svg",
+    "nome": "duvidas e informações",
+    "caminho": "icons/duvidas e informações.svg",
     "categoria": "Sem categoria"
   },
   {
-    "nome": "duvidas (2)",
-    "caminho": "icons/duvidas (2).svg",
+    "nome": "duvidas e opinião, duvida e informação",
+    "caminho": "icons/duvidas e opinião, duvida e informação.svg",
     "categoria": "Sem categoria"
   },
   {
-    "nome": "duvidas e feedbacks(1)",
-    "caminho": "icons/duvidas e feedbacks(1).svg",
+    "nome": "duvidas, dúvidas",
+    "caminho": "icons/duvidas, dúvidas.svg",
     "categoria": "Sem categoria"
   },
   {
-    "nome": "duvidas e feedbacks(2)",
-    "caminho": "icons/duvidas e feedbacks(2).svg",
+    "nome": "dúvidas, questionamento",
+    "caminho": "icons/dúvidas, questionamento.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "e-mail, email",
+    "caminho": "icons/e-mail, email.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -305,8 +325,23 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "enventos, entradas",
+    "caminho": "icons/enventos, entradas.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "escritorio",
     "caminho": "icons/escritorio.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "estética, corporal, procedimentos",
+    "caminho": "icons/estética, corporal, procedimentos.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "facial , estética, limpeza de pele",
+    "caminho": "icons/facial , estética, limpeza de pele.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -335,6 +370,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "feedback, 3 estrelas",
+    "caminho": "icons/feedback, 3 estrelas.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "feedback, cliente, 3 estrelas",
     "caminho": "icons/feedback, cliente, 3 estrelas.svg",
     "categoria": "Sem categoria"
@@ -350,8 +390,28 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "fesioterapia, quiropraxia",
+    "caminho": "icons/fesioterapia, quiropraxia.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "figma, marca",
     "caminho": "icons/figma, marca.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "fisioterapia, lesões",
+    "caminho": "icons/fisioterapia, lesões.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "fisioterapia, paciente, massagem",
+    "caminho": "icons/fisioterapia, paciente, massagem.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "fisioterapia, recuperação",
+    "caminho": "icons/fisioterapia, recuperação.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -425,6 +485,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "grupo, estudos, atividades",
+    "caminho": "icons/grupo, estudos, atividades.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "horário",
     "caminho": "icons/horário.svg",
     "categoria": "Sem categoria"
@@ -462,6 +527,11 @@
   {
     "nome": "instagram",
     "caminho": "icons/instagram.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "ioga, meditação, relaxar",
+    "caminho": "icons/ioga, meditação, relaxar.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -620,11 +690,6 @@
     "categoria": "Sem categoria"
   },
   {
-    "nome": "odonntologia, dentista, implante",
-    "caminho": "icons/odonntologia, dentista, implante.svg",
-    "categoria": "Sem categoria"
-  },
-  {
     "nome": "orelha, furo, brinco",
     "caminho": "icons/orelha, furo, brinco.svg",
     "categoria": "Sem categoria"
@@ -642,6 +707,16 @@
   {
     "nome": "parceria, aperto de mão, acordo",
     "caminho": "icons/parceria, aperto de mão, acordo.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "pilates, exercícios, ginástica",
+    "caminho": "icons/pilates, exercícios, ginástica.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "pilates, ioga, exercício",
+    "caminho": "icons/pilates, ioga, exercício.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -740,8 +815,18 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "unha, beleza, manicure",
+    "caminho": "icons/unha, beleza, manicure.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "velas, aromatizante",
     "caminho": "icons/velas, aromatizante.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "velas, produção, bastidores",
+    "caminho": "icons/velas, produção, bastidores.svg",
     "categoria": "Sem categoria"
   },
   {
