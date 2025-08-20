@@ -115,6 +115,36 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "brigadeiro, sobremesa",
+    "caminho": "icons/brigadeiro, sobremesa.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "café da manhã, amor",
+    "caminho": "icons/café da manhã, amor.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "café, copo, café gelado",
+    "caminho": "icons/café, copo, café gelado.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "café, grão, plantação, colheita",
+    "caminho": "icons/café, grão, plantação, colheita.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "café, grão, saco",
+    "caminho": "icons/café, grão, saco.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "café, xicará",
+    "caminho": "icons/café, xicará.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "caixa, enviar, entregar",
     "caminho": "icons/caixa, enviar, entregar.svg",
     "categoria": "Sem categoria"
@@ -127,6 +157,11 @@
   {
     "nome": "cartao de credito",
     "caminho": "icons/cartao de credito.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "casa, imobiliária, corretor",
+    "caminho": "icons/casa, imobiliária, corretor.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -200,6 +235,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "conversa, mentoria, comunicação, pessoas",
+    "caminho": "icons/conversa, mentoria, comunicação, pessoas.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "coração",
     "caminho": "icons/coração.svg",
     "categoria": "Sem categoria"
@@ -242,6 +282,11 @@
   {
     "nome": "delivery, entrega",
     "caminho": "icons/delivery, entrega.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "desginer, audivisual",
+    "caminho": "icons/desginer, audivisual.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -335,6 +380,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "estrelas, 3 estrelas, brilho",
+    "caminho": "icons/estrelas, 3 estrelas, brilho.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "estética, corporal, procedimentos",
     "caminho": "icons/estética, corporal, procedimentos.svg",
     "categoria": "Sem categoria"
@@ -392,6 +442,11 @@
   {
     "nome": "fesioterapia, quiropraxia",
     "caminho": "icons/fesioterapia, quiropraxia.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "festa, bolo, aniversário",
+    "caminho": "icons/festa, bolo, aniversário.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -492,6 +547,16 @@
   {
     "nome": "horário",
     "caminho": "icons/horário.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "imobiliária, construção, corretor, contrato",
+    "caminho": "icons/imobiliária, construção, corretor, contrato.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "Imóveis, imobiliária, negócio, aperto de mãos",
+    "caminho": "icons/Imóveis, imobiliária, negócio, aperto de mãos.svg",
     "categoria": "Sem categoria"
   },
   {
@@ -725,6 +790,11 @@
     "categoria": "Sem categoria"
   },
   {
+    "nome": "portifolio",
+    "caminho": "icons/portifolio.svg",
+    "categoria": "Sem categoria"
+  },
+  {
     "nome": "presente",
     "caminho": "icons/presente.svg",
     "categoria": "Sem categoria"
@@ -787,6 +857,11 @@
   {
     "nome": "sabonete, sabão",
     "caminho": "icons/sabonete, sabão.svg",
+    "categoria": "Sem categoria"
+  },
+  {
+    "nome": "serviço, serviço automotivo",
+    "caminho": "icons/serviço, serviço automotivo.svg",
     "categoria": "Sem categoria"
   },
   {
